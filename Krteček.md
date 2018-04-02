@@ -1,13 +1,12 @@
-#Krteèek
+<div>
+  <h1>KrteÄek1</h1>
 
-Já na pohádky nejsem, ádnou oblíbenou nemám. Ale jako malej jsem mìl rád pohádky *o krtkovi*.
+</div>
+h1 * {color: blue 
+p * {color: red}
+JÃ¡ na pohÃ¡dky nejsem, Å¾Ã¡dnou oblÃ­benou nemÃ¡m. Ale jako malej jsem mÄ›l rÃ¡d pohÃ¡dky *o krtkovi*.
 
-Take jsem vybral díl **krtek a zelená hvìzda**
+TakÅ¾e jsem vybral dÃ­l **krtek a zelenÃ¡ hvÄ›zda**
 
-Z nebe spadne zelená hvìzda a krtek se jí ujme. Jene hvìzdu mu ukradne straka. 
-Krtek ji však získá zpìt, a s pomocí mìsíèku hvìzdu vrátí zpátky na nebe. 
-
-*the end*
-
-![krtek]
-(https://flic.kr/p/VKPFGQ)
+Z nebe spadne zelenÃ¡ hvÄ›zda a krtek se jÃ­ ujme. JenÅ¾e hvÄ›zdu mu ukradne straka. Krtek ji vÅ¡ak zÃ­skÃ¡ zpÄ›t, a s pomocÃ­ mÄ›sÃ­Äku hvÄ›zdu vrÃ¡tÃ­ zpÃ¡tky na nebe *the end* 
+![krtek] (https://flic.kr/p/VKPFGQ)=
